@@ -1,0 +1,61 @@
+Esercizio 
+Individuiamo tre task di qualsiasi tipo (fare la spesa, studiare un concetto, riempire il serbatoio dell'auto, acquistare uno snack da un distributore automatico, o qualunque altra cosa); 
+
+Scriviamo un algoritmo (in forma testuale), cioè i passi necessari, per ognuno dei task selezionati.
+
+Fare la spesa:
+1. Preparare la lista (input)
+2. Preparare il denaro o la carta di pagamento
+3. Preparare le buste dove mettere la spesa (prendo sempre la busta con me)
+4. Recarsi al supermercato scelto
+5. Prendere un carello
+6. Cercare i prodotti dalla lista e metterli nel carello
+7. Guardare offerte e alternative piu convenienti
+8. Se un prodotto nella lista non c'e nel supermercato torna a 7
+9. Guardare altri prodotti che sono in offerta
+10. Raggiungere la cassa 
+11. Pagare la spesa
+12. Sistemare i prodotti nelle buste
+13. Ritirare lo scontrino
+14. Tornare a casa e sistemare la spesa (output)
+
+Studiare un concetto
+1. Definire chiaramente l'argomento da studiare (input)
+2. Cercare le risorse necessarie (libri, articoli, appunti)
+3. Leggere attentamente il materiale selezionato
+4. Prendere appunti delle parole e le frasi importanti
+5. Rielabora il concetto con parole proprie
+6. Fare esercizi per applicare il concetto
+7. Ripetere 3 - 6
+8. Fare delle verifiche per quanto riguarda la comprensione e se c'e altro da aggiungere
+9. Rileggere gli appunti
+10. Fare del ripasso 
+11. Comprensione del concetto (output)
+
+
+Riempire il serbatoio dell'auto
+1. Controllare il livello di carburante (input)
+2. Cercare un distributore di carburante in vicinanza (anche a buon prezzo)
+3. Recarsi all' distributore
+4. Fermare l'auto vicino alla pompa di carburante desiderata
+5. Spegnere il motore dell'auto
+6. Premere il pulsante per apprire il tappo del serbatoio dell'auto
+7. Scendere dal auto
+8. Scegliere il tipo di carburante adatto per l'auto
+9. Inserire la carta o seleziona in contanti
+10. Stampare o ritirare la ricevuta se necessario
+11. Prendere la pistola erogatrice del carburante
+12. Inserire la pistola erogatrice nel bocchettone del serbatoio
+13. Premere la leva della pistola erogatrice per avviare il rifornimento
+14. Mantenere la leva premuta fino al riempimento del serbatoio
+15. Se la pistola non si blocca torna al 13
+16. Se la pistola si blocca verifica lo schermo
+17. Riponere la pistola erogatrice nell'apposito allogiamento
+18. Chiudere il tappo del serbatoio dell'auto
+19. Rientrare nell'auto
+20. Accendere l'auto
+21. Controllare che il livello sia aggiornato (output)
+
+
+
+
